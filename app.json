@@ -4,11 +4,11 @@
     "slug": "lustreline",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icone-cubo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/04-floorlamps.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#87CEFA"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
